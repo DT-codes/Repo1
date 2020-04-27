@@ -1,4 +1,4 @@
-var origiBoard;
+var origBoard;
 const huPlayer = 'O';
 const aiPlayer = 'X';
 const winCombos = [
